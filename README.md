@@ -1,6 +1,15 @@
 # Sql-Datawarehouse-Project
 Designing a SQL Server data warehouse 🗄️ with ETL pipelines 🔄, data modeling 📐, and analytics 📊 using Medallion Architecture 🥇🥈🥉
 
+## 🏗️ Data Architecture
+Regarding data architecture for this project I choose Data Warehouse inplace of Data Lake, Data LakeHouse. For Data Warehouse I used Medallion Architecture approach because of it structure flexbility & simplicity.
+
+Here is the High Level Architecture view below:
+
+
+
+
+
 #### 🚀 Objective
 Develop a modern Data Warehouse using SQL Server to consolidate sales data, enabling analytical reporting 📊 and data-driven decision-making 💡.
 
