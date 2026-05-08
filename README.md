@@ -1,8 +1,10 @@
-# Sql-Datawarehouse-Project
+# First Data Warehouse & Analytics Project (Enspired by DataWithBaraa)
+- To view him here is his link for GitHub: https://github.com/DataWithBaraa
+
 Designing a SQL Server data warehouse 🗄️ with ETL pipelines 🔄, data modeling 📐, and analytics 📊 using Medallion Architecture 🥇🥈🥉
 
 ## 🏗️ Data Architecture
-Regarding data architecture for this project I choose Data Warehouse inplace of Data Lake, Data LakeHouse. For Data Warehouse I used Medallion Architecture approach because of it structure flexbility & simplicity.
+For this project, a **Data Warehouse** architecture was selected over a **Data Lake** and **Data Lakehouse**. The solution leverages the **Medallion Architecture** approach, chosen for its structured layers, flexibility, and simplicity - enabling scalable, maintainable, and efficient data processing.
 
 Here is the High Level Architecture view below:
 ![Data Architecture](docs/Data_Architecture.png)
