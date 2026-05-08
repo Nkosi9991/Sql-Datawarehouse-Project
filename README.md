@@ -1,4 +1,4 @@
-# First Data Warehouse & Analytics Project 
+# Data Warehouse & Analytics Project 
 (Enspired by DataWithBaraa)
 - To view him here is his link for GitHub: https://github.com/DataWithBaraa
 ---
