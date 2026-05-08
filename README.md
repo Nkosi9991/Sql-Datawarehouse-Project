@@ -5,6 +5,7 @@ Designing a SQL Server data warehouse 🗄️ with ETL pipelines 🔄, data mode
 Regarding data architecture for this project I choose Data Warehouse inplace of Data Lake, Data LakeHouse. For Data Warehouse I used Medallion Architecture approach because of it structure flexbility & simplicity.
 
 Here is the High Level Architecture view below:
+![Data Architecture](docs/Data_Architecture.png)
 
 
 
