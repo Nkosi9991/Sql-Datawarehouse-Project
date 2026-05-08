@@ -1,6 +1,6 @@
 # Data Warehouse & Analytics Project 
 (Enspired by DataWithBaraa)
-- To view him here is his link for GitHub: https://github.com/DataWithBaraa
+- Explore his projects and contributions on GitHub: https://github.com/DataWithBaraa
 ---
 Designing a SQL Server data warehouse 🗄️ with ETL pipelines 🔄, data modeling 📐, and analytics 📊 using Medallion Architecture 🥇🥈🥉
 ---
