@@ -1,19 +1,21 @@
 # First Data Warehouse & Analytics Project 
 (Enspired by DataWithBaraa)
 - To view him here is his link for GitHub: https://github.com/DataWithBaraa
-
+---
 Designing a SQL Server data warehouse 🗄️ with ETL pipelines 🔄, data modeling 📐, and analytics 📊 using Medallion Architecture 🥇🥈🥉
+---
 
 ## 🏗️ Data Architecture
 For this project, a **Data Warehouse** architecture was selected over a **Data Lake** and **Data Lakehouse**. The solution leverages the **Medallion Architecture** approach, chosen for its structured layers, flexibility, and simplicity - enabling scalable, maintainable, and efficient data processing.
 
 Here is the High Level Architecture view below:
+
 ![Data Architecture](docs/Data_Architecture.png)
 
 
 
 
-
+---
 #### 🚀 Objective
 Develop a modern Data Warehouse using SQL Server to consolidate sales data, enabling analytical reporting 📊 and data-driven decision-making 💡.
 
