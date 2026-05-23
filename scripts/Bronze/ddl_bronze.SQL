@@ -15,7 +15,7 @@ Tables.
 */
 
 -- ====================================================
--- CRM Data Source
+-- CRM Data Source Tables
 -- ====================================================
 IF OBJECT_ID ('Bronze.crm_cust_info', 'U') IS NOT NULL
 	DROP TABLE Bronze.crm_cust_info;
@@ -57,7 +57,7 @@ CREATE TABLE Bronze.crm_sales_details (
 
 
 -- ====================================================
--- ERP Data Source
+-- ERP Data Source Tables
 -- ====================================================
 IF OBJECT_ID ('Bronze.erp_CUST_AZ12', 'U') IS NOT NULL
 	DROP TABLE Bronze.erp_CUST_AZ12;
